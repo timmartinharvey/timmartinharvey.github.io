@@ -66,8 +66,8 @@ nav{
      position: fixed;
      bottom: 5%;
      left: 0%;
-     right: 00%;
-     display: block; 
+     right: 0%;
+     display: block;
      text-align: center;
 }
 
@@ -82,7 +82,7 @@ ul{
      font-weight: 100;
      line-height: 25px;
      text-align: center;
-     width: 90px;
+     width: 120px;
      border: solid #383838;
      border-width: 1px;
      color: #383838;
